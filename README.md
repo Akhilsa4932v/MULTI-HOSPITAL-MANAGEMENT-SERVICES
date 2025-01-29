@@ -204,7 +204,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Author:** [Jeeru Nithin Reddy](https://github.com/JEERUNITHINREDDY)
-- **Email:** jeerunithinreddy3012@gmail.com
-- **LinkedIn:** Jeeru Nithin Reddy(https://www.linkedin.com/in/jeeru-nithin-reddy-80586622b/)
+- **Author:** [AKHIL KUMAR(https://github.com/Akhilsa4932v)]
+- **Email:** akhilkumarp354@gmail.com
+
 
